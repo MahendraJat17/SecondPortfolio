@@ -1,20 +1,20 @@
 export const Bio = {
-  name: "Shubham Dharpure",
+  name: "Mahendra Choudhary",
   roles: [
     "Frontend Developer",
     "React.js Developer",
     "UI/UX Designer",
-    "Programmer",
+    "Competetive Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/shubham2205",
+  github: "https://github.com/MahendraJat17",
   resume:
     "https://drive.google.com/file/d/1U3lhHLWPchMvo3rPXvQ3dH_ngrais8-I/view?usp=drivesdk",
-  linkedin: "https://www.linkedin.com/in/shubhamdharpure22",
-  twitter: "https://twitter.com/su_am_05",
-  insta: "https://instagram.com/su_am05?igshid=MzMyNGUyNmU2YQ==",
-  facebook: "https://www.facebook.com/shubham.dharpure.5",
+  linkedin: "https://www.linkedin.com/in/mahendra-choudhary-7912b52a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  twitter: "https://x.com/MahendraCh74936?t=1RuEml3qr6keWlqZMWJH1g&s=08",
+  insta: "https://www.instagram.com/mahendra_jat17?igsh=ZHU1M24xa3EzMzNw",
+  facebook: "https://www.facebook.com/profile.php?id=61567803750402&mibextid=ZbWKwL",
 };
 
 export const skills = [
@@ -58,7 +58,6 @@ export const skills = [
         image:
           "https://i.ibb.co/M8t4mCz/framer-motion-logo-DA1-E33-CAA1-seeklogo-com.png",
       },
-    
     ],
   },
 
@@ -89,7 +88,7 @@ export const education = [
     img: "https://scontent.fbho4-2.fna.fbcdn.net/v/t39.30808-6/277590872_383562197108194_7479920513659275288_n.png?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=Z5pUfKE3hp4AX9abBPx&_nc_ht=scontent.fbho4-2.fna&oh=00_AfAmm0bBUlcDFQdWtQaE6BrazVxs95qMyBjHqqjETjBCqw&oe=651F8B7A",
     school: "NRI Institute of information Science and Technology",
     date: "Oct 2020 - Sep 2023",
-    grade: "8.6 CGPA",
+    grade: "9.7 CGPA",
     desc: "I have  completed Bachelor's degree  at NRI Institute of information Science and Technology, Bhopal. ",
     degree: "Bachelor of Technology",
   },
@@ -99,7 +98,7 @@ export const education = [
     img: "https://svpc.mp.gov.in/images/header/19022018034441pcblogo.png",
     school: "Sardar Vallabhbhai Govt. Polytechnic College Bhopal",
     date: "2017 - 2020",
-    grade: "6.7 CGPA",
+    grade: "9.9 CGPA",
     desc: "I have completed Diploma at Sardar Vallabhbhai Govt. Polytechnic College Bhopal",
     degree: "Polytechnic in Electrical Engineering",
   },
@@ -109,7 +108,7 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg/175px-Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
     school: "12th",
     date: "2016 - 2017",
-    grade: "59.8%",
+    grade: "86%",
     desc: "I completed my class 12th in PCM at Saraswati Shishu Mandir Higher Secondary School, Pandhurna.",
     degree: "PCM",
   },
@@ -119,7 +118,7 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg/175px-Board_of_Secondary_Education%2C_Madhya_Pradesh_logo.jpg",
     school: "10th",
     date: "2015 - 2016",
-    grade: "69.8%",
+    grade: "89.67%",
     desc: "I completed my class 10th at Govt. Rajendra Higher Secondary School, Kamthikala.",
     degree: "PCM",
   },
